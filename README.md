@@ -1,1 +1,1 @@
-# S_P_Equal_weightage
+this was a project made with the help of freecodecamp.org as a quant project. 
